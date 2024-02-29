@@ -1,5 +1,7 @@
 # React Projects
 
+# This is a copy for my tests
+
 (not maintained, was just for practice earlier)
 A couple of projects to get familiar with the React framework.
 
